@@ -29,14 +29,10 @@ import java.util.ArrayList;
  */
 public class Database {
     // Final Database Strings
-    //private static final String DB_SERVER = "cisdbss.pcc.edu";
-    private static final String DB_SERVER = "localhost";
-    //private static final String DATABASE = "234a_MinimalEffort";
-    private static final String DATABASE = "MinimalEffort";
-    //private static final String DB_USERNAME = "234a_MinimalEffort";
-    private static final String DB_USERNAME = "javadb";
-    //private static final String DB_PASSWORD = "M4trix!";
-    private static final String DB_PASSWORD = "javadb";
+    private static final String DB_SERVER = "*****************";
+    private static final String DATABASE = "******************";
+    private static final String DB_USERNAME = "******************";
+    private static final String DB_PASSWORD = "********************";
     private static final String DB_CONNECTION = "jdbc:jtds:sqlserver://"
             + DB_SERVER + "/" + DATABASE + ";user=" + DB_USERNAME + ";password=" + DB_PASSWORD;
     // Private variables
