@@ -11,7 +11,7 @@ import javax.swing.*;
  *
  * Change Log:
  * - Refactored Project after Sprint One
- * - -
+ * -
  */
 class Main {
 
